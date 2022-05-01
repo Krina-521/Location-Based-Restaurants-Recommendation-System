@@ -112,18 +112,18 @@ Streaming recommendation system is based on the current ratings of the restauran
 ### Static Recommendation system
 The result of the Static Recommendation System is displayed here which consists of the top five restaurants obtained using the ALS model. The restaurant along with the predicted rating is shown below.
 
-![image](https://user-images.githubusercontent.com/64421366/166134774-199ffad7-ca2f-4fa3-bfd4-8d1eda3208b7.png)
+<img src="https://user-images.githubusercontent.com/64421366/166134774-199ffad7-ca2f-4fa3-bfd4-8d1eda3208b7.png" width=500>
 
-![image](https://user-images.githubusercontent.com/64421366/166135266-32fb456e-e6ad-41cc-b09f-5636d72c894d.png)
-
+<img sec="https://user-images.githubusercontent.com/64421366/166135266-32fb456e-e6ad-41cc-b09f-5636d72c894d.png">
 
 ### Streaming Recommendation system
 
 In results of the Streaming Recommendation System  , output has changed every time the data is streamed, which means that the user is being recommended differently for each new data stream which says that daily reviews on a particular restaurant change and the user will be recommended the best restaurants based on that day review.
 
-![image](https://user-images.githubusercontent.com/64421366/166134879-977f1efb-3667-467c-808f-ee6fbf2142d8.png)
+<img src="https://user-images.githubusercontent.com/64421366/166134879-977f1efb-3667-467c-808f-ee6fbf2142d8.png" width=600>
 
-![image](https://user-images.githubusercontent.com/64421366/166134886-19b3980a-d3da-4cff-8737-d1818c38ec84.png)
+<img src ="https://user-images.githubusercontent.com/64421366/166134886-19b3980a-d3da-4cff-8737-d1818c38ec84.png" width=600>
+
 
 ## References 
 
